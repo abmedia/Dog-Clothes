@@ -1,0 +1,13 @@
+/*
+Theme Name: M Cary & Daughters Plumbing
+Theme URI: 
+Description: Custom WordPress Theme
+Version: 1.0
+Author: TH Design
+Author URI: http://www.thdesign.com
+Tags: M Cary & Daughters, custom, WordPress, Theme
+*/
+
+@import "css/reset.css";
+@import "css/typography.css";
+@import "css/layout.css";
