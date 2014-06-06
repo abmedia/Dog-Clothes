@@ -1,4 +1,4 @@
-Dog-Clothes
+old site
 ===========
 
-doggie website customized Wordpress site
+wordpress install
